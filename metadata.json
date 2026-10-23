@@ -1,0 +1,6 @@
+{
+  "name": "DeltaSmith AI — 델타포스 AI 총기 모딩 & 실시간 코드 발급 시스템",
+  "description": "델타포스 공식 툴 스테이션 및 인게임 봇 브릿지 연동 기반 AI 맞춤형 총기 개조(Gunsmith), 세부 보정 설계 및 실시간 공유 코드 즉시 발급 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
